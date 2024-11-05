@@ -1,2 +1,3 @@
 # repodemo
-this is my first random demo repo
+this is my  random demo repo
+author 
